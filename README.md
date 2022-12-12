@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KapriiDev
+- 👀 I am interested in web development
+- 🌱 I’m currently learning JS/PHP
+- 📫 Kaprii#0001
