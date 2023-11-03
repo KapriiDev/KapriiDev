@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Kaprii<br>🚀 Développeur D'application Junior<br>📚 J'apprends le HTML, CSS, JavaScript, C#, et Python<br>💡 Passionné par la programmation et la création d'applications<br>🌍 J'adore explorer l'univers du développement web et logiciel<br>
+👨‍💻 Kaprii<br>🚀 Développeur Polyvalent<br>💡 Passionné par la programmation et la création d'applications<br>🌍 J'adore explorer l'univers du développement web et logiciel<br>
 
 
 ## 🌐 Socials:
